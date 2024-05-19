@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Charles Ison"
+#title                    : "Charles Ison"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/charles-ison"
+  github           : "charles-ison"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "charles-i-091353135"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
