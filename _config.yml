@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-#title                    : "Charles Ison"
+title                    : "Charles Ison"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "mePicture.png"
+  #name             : "Charles Ison"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Graduate student interested in explainable AI (XAI), mathematics visualizations, topology, and applied machine learning."
   location         : "Corvallis, Oregon"
   employer         : "Oregon State University"
   uri              : # URL
