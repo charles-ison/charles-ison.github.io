@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! My name is Charles Ison and I'm a second year computer science graudate student at Oregon State University. I am currently co-advised by Professor [Yue Zhang](https://web.engr.oregonstate.edu/~zhangyue/) and  Professor [Eugene Zhang](https://web.engr.oregonstate.edu/~zhange/).
 
-Prior to graduate school, I worked for three years as a SDE and SDE II for Amazon.
+Prior to graduate school, I worked for 3.5 years as a SDE Inter, SDE, and SDE II for Amazon.
 
 I completed my undergraduate education at Clemson University majoring in Computer Science and minoring in Mathematical Sciences.
 
