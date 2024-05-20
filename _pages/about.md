@@ -23,4 +23,4 @@ GPA: 4.00/4.00
 Non-Professional
 ======
 
-Outside of school I am the Treasurer for the OSU Cycling Club and enjoy mountain bike racing. I also have a passion for music production and it initially sparked my interest in coding.
+Outside of school I am the Treasurer for the OSU Cycling Club and enjoy mountain bike racing. I also have a passion for music production, which initially sparked my interest in coding.

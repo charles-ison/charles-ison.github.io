@@ -1,5 +1,5 @@
 ---
-title: "Visualizing the Loss Landscpe of Neural Nets"
+title: "Visualizing the Loss Landscape of Neural Nets"
 excerpt: "Trained CNN models on the CIFAR-10 dataset and visualized the weights during backpropagation as a scalar field using dimensionality reduction. <br/><img src='/images/loss_landscape.png'>"
 collection: portfolio
 ---
