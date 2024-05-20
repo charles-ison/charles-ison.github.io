@@ -4,6 +4,6 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/los
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-
-![image](/images/loss_landscape.png)
+<body style="margin:0px;padding:0px;overflow:hidden">
+    <iframe src="/files/loss_landscapes.pdf" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px" height="100%" width="100%"></iframe>
+</body>
