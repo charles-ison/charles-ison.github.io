@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning for Oregon Wildlife Counting and Detection from Camera Trap Images"
-excerpt: "Project completed in partnership with Oregon Department of Transportation (ODOT). More details and paper coming soon. <br/><img src='https://charles-ison.github.io/images/wildlife.png'>"
+excerpt: "Project completed in partnership with Oregon Department of Transportation (ODOT). More details and paper coming soon. <br/><img src='/images/wildlife.png'>"
 collection: portfolio
 ---
 

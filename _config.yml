@@ -21,7 +21,7 @@ repository               : "charles-ison/charles-ison.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://charles-ison.github.io/images/mePicture.png"
+  avatar           : "/images/mePicture.png"
   #name             : "Charles Ison"
   pronouns         : # example: "she/her"  
   bio              : "Graduate student interested in explainable AI (XAI), mathematics visualizations, topology, and applied machine learning."
