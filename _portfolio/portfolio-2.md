@@ -1,6 +1,6 @@
 ---
 title: "A Multi-Planar Graph Visualization of Transformer Multi-Head Attention"
-excerpt: "Worked on creating a novel, interactive visualization for Tranformer neural networks multi-head attention. <br/><img src='/images/transformer_attention.png'>"
+excerpt: "Worked on creating a novel, interactive visualization for Tranformer neural networks' multi-head attention. <br/><img src='/images/transformer_attention.png'>"
 collection: portfolio
 ---
 
