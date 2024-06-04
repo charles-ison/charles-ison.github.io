@@ -1,6 +1,6 @@
 ---
 title: "Visualizing the Loss Landscape of Neural Nets"
-excerpt: "Trained CNN models on the CIFAR-10 dataset and visualized the weights during backpropagation as a scalar field using dimensionality reduction. <br/><img src='/images/loss_landscape.png'>"
+excerpt: "Trained CNN models on the CIFAR-10 dataset and visualized the weights during backpropagation as a scalar field using dimensionality reduction. Inspired by the <a href='https://papers.nips.cc/paper_files/paper/2018/hash/a41b3bb3e6b050b6c9067c67f663b915-Abstract.html'> 2018 NeurIPS paper from Hao Li et al. </a>  <br/><img src='/images/loss_landscape.png'>"
 collection: portfolio
 ---
 
