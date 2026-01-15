@@ -7,20 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Charles Ison and I'm a computer science graudate student at Oregon State University. 
+Hi! My name is Charles Ison and I am a machine learning engineer. 
 
-Prior to graduate school, I worked for 3.5 years as an SDE II, SDE, and SDE Intern at Amazon.
+Previously, I interned at NASA Ames Research Center researching AI & ML for Air Traffic Management. Before graduate school, I worked for 3.5 years as an SDE II, SDE, and SDE Intern at Amazon.
 
-I completed my undergraduate education at Clemson University majoring in Computer Science and minoring in Mathematical Sciences.
 
-Graduate Coursework
+Graduate Education
 ======
-Deep Learning, Machine Learning, Geometric Processing, Algebraic Topology, Differential Geometry, Topological Data Analysis, Scientific Visualizations, Algorithms, and Theory of Computation
+M.Eng. from Oregon State University in Computer Science
+
+Coursework: Deep Learning, Machine Learning, Geometric Processing, Algebraic Topology, Differential Geometry, Topological Data Analysis (TDA), Scientific Visualizations, Algorithms, High-level Synthesis (HLS), and Theory of Computation
 
 GPA: 4.00/4.00
 
 
+Undergraduate Education
+======
+B.S. from Oregon State University in Computer Science and minor in Mathematical Sciences
+
+Graduated Magna Cum Laude and a member of the Honors College
+
+GPA: 3.92/4.00
+
+Scholarships: Palmetto Fellows, Presidential Scholarship, Clemson Scholar
+
+
 Non-Professional
 ======
-
-Outside of school I am the Treasurer for the OSU Cycling Club and enjoy mountain bike racing. I also have a passion for music production, which initially sparked my interest in coding.
+Outside of school, I enjoy mountain biking, backcountry skiing, volunteering at the humane society, and music production (which initially sparked my interest in coding). While at OSU I was also the Treasurer for the OSU Cycling Club.
