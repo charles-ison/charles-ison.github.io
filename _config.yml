@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chase Ison"
+title                    : "Charles Ison"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "charles-ison/charles-ison.github.io"
 author:
   # Biographic information
   avatar           : "https://charles-ison.github.io/images/mePicture.png"
-  #name             : "Chase Ison"
+  #name             : "Charles Ison"
   pronouns         : # example: "she/her"  
   bio              : "Machine learning engineer interested in explainable AI (XAI), mathematics visualizations, topology, and applied machine learning."
   location         : "Corvallis, Oregon"
