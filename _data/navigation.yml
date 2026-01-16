@@ -15,8 +15,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  #3 - title: "CV"
-  #  url: /files/Charles_Ison_Resume.pdf
+  - title: "Resume"
+    url: /files/Charles_Ison_Resume.pdf
     
   #- title: "Guide"
   #  url: /markdown/
