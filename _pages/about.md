@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Charles Ison (I also go by Chase). I am currently a Machine Learning Engineer.
+Hi! My name is Charles Ison (I also go by Chase). I am currently working as a Machine Learning Engineer.
 
 Previously, I interned at NASA Ames Research Center researching AI & ML for Air Traffic Management and as a Machine Learning Engineering Intern at HP. 
 
