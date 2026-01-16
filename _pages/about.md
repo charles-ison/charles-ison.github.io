@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Charles Ison and I am a machine learning engineer. 
+Hi! My name is Charles Ison (I also go by Chase) and I am a machine learning engineer. 
 
-Previously, I interned at NASA Ames Research Center researching AI & ML for Air Traffic Management. Before graduate school, I worked for 3.5 years as an SDE II, SDE, and SDE Intern at Amazon.
+Previously, I interned at NASA Ames Research Center researching AI & ML for Air Traffic Management and as a Machine Learning Engineering Intern at HP. 
+
+Before graduate school, I worked for 3.5 years as an SDE II, SDE, and SDE Intern at Amazon.
 
 
 Education
