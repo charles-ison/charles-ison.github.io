@@ -1,7 +1,7 @@
 ---
 title: "A Multi-Planar Graph Visualization of Transformer Multi-Head Attention"
 excerpt: "Worked on creating a novel, interactive visualization for Tranformer neural network multi-head attention. Implemented as a wrapper for the Pytorch Transformer implementation.  <br/><img src='/images/transformer_attention.png'>"
-collection: project
+collection: projects
 ---
 
 
