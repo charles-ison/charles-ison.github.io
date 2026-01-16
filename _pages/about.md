@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Charles Ison, I also go by Chase. I am currently working as a Machine Learning Engineer.
+Hi! My name is Charles Ison, but you can also just call me Chase. I am currently working as a Machine Learning Engineer.
 
 During graduate school, I interned at NASA Ames Research Center researching AI & ML for Air Traffic Management and as a Machine Learning Engineering Intern at HP. 
 
@@ -16,13 +16,12 @@ Before graduate school, I worked for 3.5 years as an SDE II, SDE, and SDE Intern
 
 Education
 ======
-### M.Eng. from Oregon State University
-* Computer Science Major
+### M.Eng. in Computer Science, Oregon State University
 * Coursework: Deep Learning, Machine Learning, Geometric Processing, Algebraic Topology, Differential Geometry, Topological Data Analysis (TDA), Scientific Visualizations, Algorithms, High-level Synthesis (HLS), and Theory of Computation
 * GPA: 4.00/4.00
 
-### B.S. from Clemson University
-* Computer Science major and Mathematical Sciences minor
+### B.S. in Computer Science, Clemson University
+* Mathematical Sciences minor
 * Graduated Magna Cum Laude and a member of the Honors College
 * GPA: 3.92/4.00
 
