@@ -24,7 +24,7 @@ GPA: 4.00/4.00
 
 ### Undergraduate
 
-B.S. in Computer Science and minor in Mathematical Sciences from Oregon State University
+B.S. in Computer Science and minor in Mathematical Sciences from Clemson University
 
 Graduated Magna Cum Laude and a member of the Honors College
 
