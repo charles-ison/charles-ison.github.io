@@ -16,11 +16,13 @@ Before graduate school, I worked for 3.5 years as an SDE II, SDE, and SDE Intern
 
 Education
 ======
-### M.Eng. in Computer Science from Oregon State University
+### M.Eng. from Oregon State University
+* Computer Science Major
 * Coursework: Deep Learning, Machine Learning, Geometric Processing, Algebraic Topology, Differential Geometry, Topological Data Analysis (TDA), Scientific Visualizations, Algorithms, High-level Synthesis (HLS), and Theory of Computation
 * GPA: 4.00/4.00
 
-### B.S. in Computer Science and minor in Mathematical Sciences from Clemson University
+### B.S. from Clemson University
+* Computer Science major and Mathematical Sciences minor
 * Graduated Magna Cum Laude and a member of the Honors College
 * GPA: 3.92/4.00
 
