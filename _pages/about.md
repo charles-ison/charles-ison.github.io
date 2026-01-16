@@ -12,24 +12,23 @@ Hi! My name is Charles Ison and I am a machine learning engineer.
 Previously, I interned at NASA Ames Research Center researching AI & ML for Air Traffic Management. Before graduate school, I worked for 3.5 years as an SDE II, SDE, and SDE Intern at Amazon.
 
 
-Graduate Education
+Education
 ======
-M.Eng. from Oregon State University in Computer Science
+### Graduate
+
+M.Eng. in Computer Science from Oregon State University
 
 Coursework: Deep Learning, Machine Learning, Geometric Processing, Algebraic Topology, Differential Geometry, Topological Data Analysis (TDA), Scientific Visualizations, Algorithms, High-level Synthesis (HLS), and Theory of Computation
 
 GPA: 4.00/4.00
 
+### Undergraduate
 
-Undergraduate Education
-======
-B.S. from Oregon State University in Computer Science and minor in Mathematical Sciences
+B.S. in Computer Science and minor in Mathematical Sciences from Oregon State University
 
 Graduated Magna Cum Laude and a member of the Honors College
 
 GPA: 3.92/4.00
-
-Scholarships: Palmetto Fellows, Presidential Scholarship, Clemson Scholar
 
 
 Non-Professional
